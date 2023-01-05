@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Raleway", sans-serif;
-  color: #272829;
+  color: #0a0a0b;
   font-size: 1.1em;
 }
 
@@ -31,6 +31,7 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
+  color: #272829;
 }
 .filter {
   border-top-right-radius: 10px;
