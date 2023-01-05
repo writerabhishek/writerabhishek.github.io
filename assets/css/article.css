@@ -10,9 +10,8 @@ h1{
 /*  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/mountain-range.jpg) no-repeat;
   padding-top: 61.93333333%;
 /*  background-size: cover;*/
-  font-size: 2.5rem;
 
- font-family: 'Montserrat';
+
  margin-top: 7%;
 
 
@@ -21,9 +20,8 @@ h3{
 /*  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/mountain-range.jpg) no-repeat;
   padding-top: 61.93333333%;
 /*  background-size: cover;*/
-margin-top: 4%;
-font-family: 'Montserrat';
-font-size: 1.75rem;
+margin-top: 5%;
+
 
 }
 
@@ -51,7 +49,7 @@ main {
   padding: 2rem 25%;
   line-height: 1.6;
 }
-@media all and (max-width: 400px) {
+/*@media all and (max-width: 400px) {
   main { padding: .7rem; }
 }
 
@@ -68,7 +66,7 @@ main {
 }
 
 @media (min-width: 1200px) {
-    html { font-size: 100%; }
+    html { font-size: 100%; }*/
 #outPopUp {
 /*  width: 30%;
   margin: 0 auto;*/
