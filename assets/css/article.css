@@ -19,11 +19,12 @@ header img {
   right: 0;
   width: 45.8%;*/
 }
+
 header h1 { 
   position: fixed;
   top: 2rem;
   right: 2rem;
-  font-size: 12vw;
+  font-size: calc(10% + 1vw + 1vh);
   line-height: .8;
   margin-top: 20%;
   text-align: center;
@@ -33,7 +34,7 @@ main {
   position: relative;
   border: 1px solid #fff;
   font-family: 'Montserrat';
-  font-size: 1.2rem;
+  font-size: calc(3% + 1vw + 1vh);
   padding: 2rem 25%;
   line-height: 1.6;
 }
@@ -41,9 +42,10 @@ main {
   main { padding: .7rem; }
 }
 
-
-
-
+/*.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
+*/
 #outPopUp {
 /*  width: 30%;
   margin: 0 auto;*/
