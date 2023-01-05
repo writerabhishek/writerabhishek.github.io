@@ -49,11 +49,11 @@ main {
   padding: 2rem 25%;
   line-height: 1.6;
 }
-/*@media all and (max-width: 400px) {
+@media all and (max-width: 400px) {
   main { padding: .7rem; }
 }
 
-@media (max-width: 300px) {
+/*@media (max-width: 300px) {
     html { font-size: 70%; }
 }
 
