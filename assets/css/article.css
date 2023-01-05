@@ -33,13 +33,16 @@ main {
   position: relative;
   border: 1px solid #fff;
   font-family: 'Montserrat';
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   padding: 2rem 25%;
   line-height: 1.6;
 }
 @media all and (max-width: 400px) {
-  main { padding: 2rem; }
+  main { padding: .7rem; }
 }
+
+
+
 
 #outPopUp {
 /*  width: 30%;
