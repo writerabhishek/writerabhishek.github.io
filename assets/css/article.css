@@ -6,7 +6,7 @@
 body {
   margin: 0;
 }
-h1{ 
+h1,h2,h3,h4,h5,h6{ 
 /*  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/mountain-range.jpg) no-repeat;
   padding-top: 61.93333333%;
 /*  background-size: cover;*/
