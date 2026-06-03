@@ -1,0 +1,6 @@
+{
+  "name": "ChatGPT Clone",
+  "description": "A fully-featured ChatGPT clone running Claude Opus 4.8 via an adaptive thinking API with chat history, streaming responses, and an elegant sky blue interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
